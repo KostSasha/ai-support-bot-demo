@@ -51,14 +51,3 @@ python main.py
 
 The `.env` file containing actual API keys is usually excluded from Git for security reasons. Please use your own keys to test the demo.
 
-```
-
-### Твій план дій (Efficiency First):
-1. Створюєш репозиторій `ai-support-bot-demo` на GitHub.
-2. Створюєш ці 5 файлів локально на комп'ютері.
-3. Робиш `git init`, `git add .`, `git commit -m "Initial commit: AI bot structure"`, `git push`.
-4. **Важливо:** Не забудь потім зробити головний репозиторій-профіль (`KostSasha`), про який я писав у попередньому повідомленні.
-
-Напиши "Готово", коли заллєш код.
-
-```
